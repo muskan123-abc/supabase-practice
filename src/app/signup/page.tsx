@@ -1,10 +1,10 @@
-import SignUpUi from "@/components/authentication/SignUpUi";
+import SignUp from "@/components/authentication/SignUp";
 import React from "react";
 
 const page = () => {
   return (
     <>
-      <SignUpUi />
+      <SignUp />
     </>
   );
 };

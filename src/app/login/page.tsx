@@ -1,12 +1,11 @@
-import LoginUi from "@/components/authentication/LoginUi"
+import LoginUi from "@/components/authentication/LoginUi";
 
 const Login = () => {
   return (
-   <>
-   <LoginUi/>
-  </>
-   
-  )
-}
+    <>
+      <LoginUi />
+    </>
+  );
+};
 
-export default Login
+export default Login;
